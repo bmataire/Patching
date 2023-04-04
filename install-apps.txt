@@ -1,0 +1,4 @@
+Version 1.0
+Google.Chrome
+Mozilla.Firefox.ESR
+VideoLAN.VLC
